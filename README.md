@@ -17,7 +17,7 @@ The original template (with JavaScript) is [Shopify/shopify-app-template-node](h
 1. Clone the repo
 
 ```sh
-npx degit kanzitelli/shopify-app-template-typescript
+npx degit kanzitelli/shopify-app-template-typescript shopify-app
 ```
 
 2. Create Shopify app
