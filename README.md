@@ -1,3 +1,7 @@
+# ⚠️ Please, refer to [kanzitelli/shopify-app-template-typescript](https://github.com/kanzitelli/shopify-app-template-typescript) for the most up-to-date version.
+
+This repo was used for testing purposes.
+
 # Shopify App Node with TypeScript
 
 This is a sample app (**with TypeScript**) to help developers bootstrap their Shopify app development.
